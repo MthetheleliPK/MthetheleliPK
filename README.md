@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm a full stack developer with expertise ranging from backend (Spring boot, Django, Flask, NodeJS + ExpressJS), to frontend (Flutter, React, ASP.NET, Tailwind CSS) and databases (POSTGRES, MongoDB, MySQL Server, SQLite). Not to forget devOps operations AWS (S3, EC2, VPC, ElasticBean), Git (CI/CD pipelines), GitHub (Version control, GitHub Actions).
+
+Currently building a home service application, bringing small service providers closer to their clients, by creating a plartform where user's can request a service and review quotation for that service. It comprises of a chatting mechanism between the service provider and a requestor. The following tools are used flutter, spring boot, redis and MongoDB.
+
+Just finished a high school analytics web app using react, nodeJS + ExpressJS, and MongoDB.
+
 <!--
 **MthetheleliPK/MthetheleliPK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
