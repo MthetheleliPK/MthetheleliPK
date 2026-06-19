@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-I'm a full stack developer with expertise ranging from backend (Spring boot, Django, Flask, NodeJS + ExpressJS, ASP.NET), to frontend (Flutter, ReactJS, HTML 5, Tailwind CSS) and databases (POSTGRES, MongoDB, MySQL Server, SQLite). Includidng some devOps operations AWS (S3, EC2, VPC, ElasticBean), Git (CI/CD pipelines), GitHub (Version control, GitHub Actions). I also possess networking skills TCP/IP, OSI, Vlans, Wireshark, Promethius.
-
-Currently building an Incident Reporting and Tracking System intended for COGTA KZN, targetting kwaZulu Natal Municiplaities/Metros. 
-
-
-
 <!--
 **MthetheleliPK/MthetheleliPK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
