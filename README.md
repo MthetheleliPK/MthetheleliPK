@@ -2,7 +2,7 @@
 
 I am a versatile IT professional specializing in designing, developing, deploying, and supporting technology solutions across software development, cloud infrastructure, DevOps, and IT operations.
 
-My experience covers the full technology lifecycle — from understanding business requirements and building applications, to deploying systems, managing infrastructure, and providing technical support to end users.
+My experience covers the full technology lifecycle, from understanding business requirements and building applications, to deploying systems, managing infrastructure, and providing technical support to end users.
 
 I develop scalable backend solutions using technologies such as Java, Spring Boot, REST APIs, databases, and microservice architectures. I also build modern applications using frameworks including Flutter, React, Node.js, and other development technologies.
 
