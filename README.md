@@ -10,61 +10,62 @@ Beyond software development, I have practical experience in cloud and infrastruc
 
 I focus on creating reliable solutions that solve real-world problems by combining software engineering practices with strong infrastructure and operational knowledge. My approach is centered around automation, maintainability, security, and delivering systems that are efficient and user-focused.
 
-What I Can Deliver
-Backend API development and microservice solutions
-Full-stack application development
-Mobile application development
-Database design and integration
-Cloud-based deployments and infrastructure setup
-DevOps automation and CI/CD workflows
-System administration and technical troubleshooting
-Network and infrastructure support
-IT process improvement and solution implementation
-Technical Capabilities
+What I Can Deliver:
 
-Programming Languages
+- Backend API development and microservice solutions
+- Full-stack application development
+- Mobile application development
+- Database design and integration
+- Cloud-based deployments and infrastructure setup
+- DevOps automation and CI/CD workflows
+- System administration and technical troubleshooting
+- Network and infrastructure support
+- IT process improvement and solution implementation
+- Technical Capabilities
 
-Java
-Python
-Dart
-JavaScript / TypeScript
-C#
-PHP
+Programming Languages:
 
-Frameworks & Platforms
+- Java
+- Python
+- Dart
+- JavaScript / TypeScript
+- C#
+- PHP
 
-Spring Boot
-Flutter
-React
-Node.js
-Django
-.NET
+Frameworks & Platforms:
 
-Cloud & DevOps
+- Spring Boot
+- Flutter
+- React
+- Node.js
+- Django
+- .NET
 
-AWS (EC2, S3, RDS)
-Azure
-Docker
-Git
-CI/CD pipelines
-Firebase
+Cloud & DevOps:
+
+- AWS (EC2, S3, RDS)
+- Azure
+- Docker
+- Git
+- CI/CD pipelines
+- Firebase
 
 Databases
 
-PostgreSQL
-SQL Server
-MongoDB
-Oracle
-SQLite
+- PostgreSQL
+- SQL Server
+- MongoDB
+- Oracle
+- SQLite
 
 Infrastructure & Support
 
-TCP/IP Networking
-DNS, DHCP, VPNs
-LAN/WAN troubleshooting
-Active Directory
-Windows Server
-Linux administration
-Virtualization
+- TCP/IP Networking
+- DNS, DHCP, VPNs
+- LAN/WAN troubleshooting
+- Active Directory
+- Windows Server
+- Linux administration
+- Virtualization
 
 I aim to bridge the gap between development and operations by creating solutions that are not only functional, but also deployable, secure, and easy to maintain.
